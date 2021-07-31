@@ -1,5 +1,6 @@
 ### Problem Statement
 <br>
+
 Write a function `canSum(targetSum, numbers)`
 that takes in a targetSum and an array of numbers 
 as arguments.
